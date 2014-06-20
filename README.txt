@@ -1,1 +1,1 @@
-Please read the file gcdata.html for a detailed explanation of how the code works and the step by step explanation of how the data has been modified. Thanks. 
+Please read the file gcdata.html for a detailed explanation of how the code works and the step by step explanation of how the data has been modified. Thanks.
